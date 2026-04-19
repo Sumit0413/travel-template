@@ -1,0 +1,100 @@
+/* ================= GLOBAL ================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #f5f7fa;
+}
+
+/* ================= NAVBAR ================= */
+
+/* TODO: Style navbar */
+.navbar {
+  /* Hint:
+     - use flex
+     - space between items
+     - dark background
+  */
+}
+
+/* ================= HERO ================= */
+
+/* TODO: Style hero section */
+.hero {
+  /* Hint:
+     - center content
+     - add height (50vh+)
+     - background image or color
+  */
+}
+
+/* ================= DESTINATIONS ================= */
+
+/* TODO: Layout cards */
+.destinations {
+  /* Hint:
+     - use flex or grid
+     - add spacing
+  */
+}
+
+/* TODO: Style individual cards */
+.destination-card {
+  /* Hint:
+     - background white
+     - border-radius
+     - box-shadow
+  */
+}
+
+/* TODO: Image styling */
+.destination-img {
+  /* Hint:
+     - width 100%
+     - fixed height (optional)
+  */
+}
+
+/* TODO: Title styling */
+.destination-title {
+  /* Hint:
+     - font-size increase
+     - margin spacing
+  */
+}
+
+/* TODO: Price styling */
+.destination-price {
+  /* Hint:
+     - color highlight (red/blue)
+     - bold text
+  */
+}
+
+/* ================= BUTTON ================= */
+
+/* TODO: Style booking button */
+.book-btn {
+  /* Hint:
+     - padding
+     - background color
+     - border-radius
+     - hover effect
+  */
+}
+
+/* ================= FOOTER ================= */
+
+/* TODO: Style footer */
+.footer {
+  /* Hint:
+     - center text
+     - dark background
+     - padding
+  */
+}
