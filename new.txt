@@ -1,0 +1,13 @@
+travel-template/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── tests/
+│   └── ui.test.js
+│
+├── package.json
+└── .github/
+    └── workflows/
+        └── test.yml
